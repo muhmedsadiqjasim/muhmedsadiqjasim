@@ -45,7 +45,7 @@ I'm a **Computer Networks Engineering** student at **Al-Nahrain University** (Ba
 
 <!-- Networking, AI & Infrastructure Badges -->
 <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco IOS" />
-<img src="https://img.shields.io/badge/OSPF_%7C_MP--BGP_%7C_MPLS-0F172A?style=flat-square&logo=protocols.io&logoColor=38BDF8" alt="Routing Protocols" />
+<img src="https://img.shields.io/badge/OSPF_%7C_MP--BGP_%7C_MPLS-0F172A?style=flat-square&logo=cisco&logoColor=38BDF8" alt="Routing Protocols" />
 <img src="https://img.shields.io/badge/Ollama_(Local_LLMs)-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
 <img src="https://img.shields.io/badge/Netmiko_%26_Paramiko-3776AB?style=flat-square&logo=python&logoColor=white" alt="Netmiko" />
@@ -63,9 +63,9 @@ I'm a **Computer Networks Engineering** student at **Al-Nahrain University** (Ba
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | 🌐 [**NetAssist**](https://github.com/muhmedsadiqjasim/llm-network-troubleshooting-assistant) | **Graduation Project:** Self-hosted LLM assistant for private enterprise network troubleshooting with read-only SSH collection, evidence verification, and a Dual-Stack MP-BGP + ZBFW benchmark topology. | `Python` `FastAPI` `Gradio` `Ollama` `Netmiko` `Pydantic` |
-| 📘 **Cisco IOS Comprehensive Guide** | Practical, community-driven guide for Cisco IOS configuration—from foundational setups to real-world enterprise topologies. | `Cisco IOS` `OSPF` `BGP` `Switching` |
-| 🖥️ **MCSA Enterprise Labs** | Practical Windows Server infrastructure labs covering AD DS, Group Policy, DNS, DHCP, IIS, Hyper-V Replica, WDS, WSUS, and FSMO roles. | `Windows Server` `Active Directory` `Hyper-V` `PowerShell` |
-| 🎓 **University Club Sessions System** | Web-based portal enabling university students to browse and register for club events with a clean database-backed workflow. | `PHP` `MySQL` `HTML/CSS` |
+| 📘 [**Cisco IOS Comprehensive Guide**](https://github.com/muhmedsadiqjasim?tab=repositories) | Practical, community-driven guide for Cisco IOS configuration—from foundational setups to real-world enterprise topologies. | `Cisco IOS` `OSPF` `BGP` `Switching` |
+| 🖥️ [**MCSA Enterprise Labs**](https://github.com/muhmedsadiqjasim?tab=repositories) | Practical Windows Server infrastructure labs covering AD DS, Group Policy, DNS, DHCP, IIS, Hyper-V Replica, WDS, WSUS, and FSMO roles. | `Windows Server` `Active Directory` `Hyper-V` `PowerShell` |
+| 🎓 [**University Club Sessions System**](https://github.com/muhmedsadiqjasim?tab=repositories) | Web-based portal enabling university students to browse and register for club events with a clean database-backed workflow. | `PHP` `MySQL` `HTML/CSS` |
 
 ---
 
@@ -73,17 +73,26 @@ I'm a **Computer Networks Engineering** student at **Al-Nahrain University** (Ba
 
 <div align="center">
 
+<!-- Most Used Languages Card -->
+<a href="https://github.com/muhmedsadiqjasim">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmedsadiqjasim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
+
+<br/>
+
 <!-- Contribution Activity Graph -->
 <a href="https://github.com/muhmedsadiqjasim">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhmedsadiqjasim&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhmedsadiqjasim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </a>
 
 </div>
 
 ---
 
-<details>
-<summary><b>🏆 Certifications, Training & Honors</b></summary>
+<details open>
+<summary><b>🏆 Training, Certifications & Honors</b></summary>
+
+<br/>
 
 - **Cisco Certified Network Associate (CCNA 200-301 v1.1)** — Course (42h) | *In Progress: CCNP ENCOR & ENARSI v9*
 - **Microsoft Certified Solutions Associate (MCSA)** — Course (40h)
