@@ -99,8 +99,6 @@ I'm a **Computer Networks Engineering** student at **Al-Nahrain University** (Ba
 
 ---
 
-<!-- Optional Contribution Snake (uncomment after enabling .github/workflows/snake.yml) -->
-<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhmedsadiqjasim/muhmedsadiqjasim/output/github-contribution-grid-snake-dark.svg" />
@@ -108,7 +106,6 @@ I'm a **Computer Networks Engineering** student at **Al-Nahrain University** (Ba
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhmedsadiqjasim/muhmedsadiqjasim/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
--->
 
 <details>
 <summary><b>🏆 Certifications, Training & Honors</b></summary>
