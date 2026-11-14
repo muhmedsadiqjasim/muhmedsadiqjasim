@@ -75,14 +75,15 @@ I'm a **Computer Networks Engineering** student at **Al-Nahrain University** (Ba
 
 <!-- Most Used Languages Card -->
 <a href="https://github.com/muhmedsadiqjasim">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmedsadiqjasim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
 </a>
 
 <br/>
 
 <!-- Contribution Activity Graph -->
 <a href="https://github.com/muhmedsadiqjasim">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhmedsadiqjasim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribution Activity Graph" />
 </a>
 
 </div>
