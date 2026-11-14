@@ -73,39 +73,14 @@ I'm a **Computer Networks Engineering** student at **Al-Nahrain University** (Ba
 
 <div align="center">
 
-<!-- GitHub Stats & Top Languages -->
-<a href="https://github.com/muhmedsadiqjasim">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=muhmedsadiqjasim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/muhmedsadiqjasim">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmedsadiqjasim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</a>
-
-<br/>
-
-<!-- GitHub Streak -->
-<a href="https://github.com/muhmedsadiqjasim">
-  <img src="https://streak-stats.demolab.com?user=muhmedsadiqjasim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
-<br/>
-
 <!-- Contribution Activity Graph -->
 <a href="https://github.com/muhmedsadiqjasim">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhmedsadiqjasim&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhmedsadiqjasim&theme=tokyo-night&hide_border=true&area=true"/>
 </a>
 
 </div>
 
 ---
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhmedsadiqjasim/muhmedsadiqjasim/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhmedsadiqjasim/muhmedsadiqjasim/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhmedsadiqjasim/muhmedsadiqjasim/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 <details>
 <summary><b>🏆 Certifications, Training & Honors</b></summary>
